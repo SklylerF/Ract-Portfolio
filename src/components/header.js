@@ -1,9 +1,10 @@
 import React from "react";
-
+import "../css/resume.min.css"
+import "../css/resume.css"
 function header() {
     return (
         <header>
-            <h1>Skyler Ferreira</h1>
+            <h1>skyler</h1>
         </header>
     )
 }
