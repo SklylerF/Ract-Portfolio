@@ -6,7 +6,7 @@ My portfolio has an about me, projects, skills, and a contact section modularize
 
 This website is powered my React.js, and is deployed on Github pages.
 
-Deployed: 
+Deployed: https://skyler-ferreiras-react-portfolio.netlify.app/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
