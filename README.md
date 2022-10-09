@@ -37,12 +37,12 @@ After run `npm start` to start the application.
 
 ## Screenshots
 
-  <img src="./assets/about.png" alt="hero section" />
-  <img src="./assets/education.png" alt="project section" />
-  <img src="./assets/experience.png" alt="skills section" />
-  <img src="./assets/interests.png" alt="contact section" />
-  <img src="./assets/projects.png" alt="project page" />
-  <img src="./assets/skills.png" alt="project page" />
+  <img src="./Assets/about.png" alt="hero section" />
+  <img src="./Assets/education.png" alt="project section" />
+  <img src="./Assets/experience.png" alt="skills section" />
+  <img src="./Assets/interests.png" alt="contact section" />
+  <img src="./Assets/projects.png" alt="project page" />
+  <img src="./Assets/skills.png" alt="project page" />
 
 ## Contributing
 
