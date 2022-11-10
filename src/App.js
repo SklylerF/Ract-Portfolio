@@ -1,6 +1,5 @@
 import React from 'react';
 import Navbar from './components/navbar';
-import Header from './components/header';
 import About from './components/about';
 import Experience from './components/experience';
 import Projects from './components/projects';
@@ -11,7 +10,7 @@ import Interests from './components/interests';
 function App() {
     return (
         <div>
-            <Header />
+
             <Navbar />
             <About />
             <Experience />

@@ -4,7 +4,7 @@ import "../css/resume.css"
 function header() {
     return (
         <header>
-            <h1>skyler</h1>
+
         </header>
     )
 }
