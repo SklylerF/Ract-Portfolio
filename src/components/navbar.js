@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/resume.min.css"
-import Sky from '../image/sky.jpg'
+import Sky from '../image/sir_skyler.jpg'
 import "../css/resume.css"
 
 function Navbar() {
@@ -11,7 +11,7 @@ function Navbar() {
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
                 <span class="d-block d-lg-none">Start Bootstrap</span>
                 <span class="d-none d-lg-block">
-                    <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src={Sky} alt=""></img>
+                    <img class="img-fluid img-profile mx-auto mb-2" src={Sky} alt=""></img>
                 </span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
