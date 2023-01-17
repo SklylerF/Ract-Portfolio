@@ -33,10 +33,10 @@ function about() {
 
                     <a href="https://www.github.com/SklylerF" target="_blank" rel="noreferrer"><img
                         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-                        width="32" height="32" alt="" /></a> <a href="https://www.linkedin.com/in/skyler-ferreira-a65233252/"
+                        width="120" height="300" alt="" /></a> <a href="https://www.linkedin.com/in/skyler-ferreira-a65233252/"
                             target="_blank" rel="noreferrer" alt=""><img
                             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-                            width="32" height="32" alt="" /></a>
+                            width="120" height="300" alt="" /></a>
 
 
                 </ul>
